@@ -1,0 +1,8 @@
+ export const logout = {
+-  app: 'CTO',
++  app: 'SPACEX',
+   path: '/logout',
+   method: 'post',
+   dataType: 'text',
+   contentType: 'text'
+ }
